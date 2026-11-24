@@ -6,7 +6,7 @@
 - Account: bradestudio / GitHub Bradestudio
 - Kit: ~/workspace/makefun/u-pucuys-the-perfect-pickup-line-f6725cf6-kit/ (downloaded once, 7,795,589 bytes)
 - Repo: https://github.com/Bradestudio/u-pucuys-the-perfect-pickup-line-f6725cf6
-- Commit: (see git log — filled after push)
+- Commit: 3fe1c934936330cbe87f498888e57280f0351d03 (branch main, PUBLIC, homepage + topics makefun/ai-agents/bounties verified via gh)
 
 ## Entry line (76 characters)
 
